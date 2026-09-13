@@ -1,7 +1,7 @@
 Hi 👋 My name is Alena Batitskaia
 =================================
 
-Web Developer, Educator, Speaker
+Frontend Developer, Educator, Speaker
 --------------------------------
 
 I'm a web developer last 8+ years. Active educator. Assist people to become developers. Like to translate technical articles from EN to RU to ruin language borders and make knowledges easy accessible. 
